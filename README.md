@@ -1,5 +1,8 @@
 # 🚦 Traffic Light Simulator
 
+## 🌐 Live Demo
+👉 https://bhanu-joshi01.github.io/Traffic-Light-Simulator/
+
 A simple frontend project built using **HTML and CSS** as part of my learning journey in web development.
 
 ---
